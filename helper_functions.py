@@ -1,7 +1,6 @@
-
-# NAME @: Devdatta Supnekar 
-# TOPIC @: Risk Analytics Model Deployment
-# DATE @: 08/10/2020 
+NAME @: Rohit Patil
+TOPIC @: Risk Analytics Model Deployment
+DATE @: 08/10/2020
 
 
 
